@@ -1,7 +1,4 @@
 import numpy as np
-'owner'
-'proof'
-'-4954089-1737782880-78850561a721'
 
 
 def day4a(xmas_str):
